@@ -3,15 +3,15 @@ Simple database interaction written in java for book store. You interact with da
 
 
 This project consist 6 classes:
-1)Books__
-2)Cart\n
-3)ConnectDB(to connect for database)
-4)Main
-5)SQLObject
-6)InputKey
-and 2 interfaces
-1)IBooks (interaction methods)
-2)ICart (interaction methods)
+1)Books <br />
+2)Cart <br />
+3)ConnectDB(to connect for database) <br />
+4)Main <br />
+5)SQLObject <br />
+6)InputKey <br />
+and 2 interfaces <br />
+1)IBooks (interaction methods) <br />
+2)ICart (interaction methods)<br />
 
 
 In Main.class you user have menu panel to conveniently interact with database. All users have own cart and cart has cart_id. Cart_id equals to 8001 by default.
