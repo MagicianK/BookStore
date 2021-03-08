@@ -1,5 +1,5 @@
 # BookStore
-Simple database interaction written in java for book store. You can look at java source codes in bookStore directory
+Simple database interaction written in java for book store. You can look at java source codes in bookStore directory and sql queries on someSQL.sql file
 
 
 
