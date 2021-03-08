@@ -3,8 +3,8 @@ Simple database interaction written in java for book store. You interact with da
 
 
 This project consist 6 classes:
-1)Books
-2)Cart
+1)Books \n
+2)Cart\n
 3)ConnectDB(to connect for database)
 4)Main
 5)SQLObject
