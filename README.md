@@ -1,5 +1,5 @@
 # BookStore
-Simple database interaction written in java for book store. You can look at java source codes in bookStore directory and sql queries on someSQL.sql file
+Simple database interaction written in java for book store. You interact with database by adding and deleting books from your cart and look at available books. You can look at java source codes in bookStore directory and sql queries on someSQL.sql file
 
 
 
