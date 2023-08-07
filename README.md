@@ -2,14 +2,14 @@
 Simple database interaction written in java for book store. You can interact with database by adding and deleting books from your cart and looking at available books. You can look at java source codes in bookStore directory and sql queries on someSQL.sql file.
 
 
-## This project consist 6 classes: <br />
+### This project consist 6 classes: <br />
 1)Books <br />
 2)Cart <br />
 3)ConnectDB(to connect for database) <br />
 4)Main <br />
 5)SQLObject <br />
 6)InputKey <br />
-and 2 interfaces <br />
+### and 2 interfaces <br />
 1)IBooks (interaction methods) <br />
 2)ICart (interaction methods)<br />
 
